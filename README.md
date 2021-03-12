@@ -1,0 +1,1 @@
+# smites-discord-bot
